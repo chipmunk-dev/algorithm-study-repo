@@ -1,4 +1,4 @@
-# algorithm-study-repo
+1주일에 4문제 이상 풀기
 
 ## Greedy
 
