@@ -16,6 +16,7 @@ public class MultiplyOrAdd {
 
         for(int i=1; i<data.length(); i++) {
             int currentData = Integer.parseInt(String.valueOf(data.charAt(i)));
+
             if(result == 0 || currentData == 0) {
                 result += currentData;
             } else {
