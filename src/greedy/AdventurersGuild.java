@@ -3,9 +3,9 @@ package greedy;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Adventurers_guild {
+public class AdventurersGuild {
     public static void main(String[] args) {
-        Adventurers_guild ag = new Adventurers_guild();
+        AdventurersGuild ag = new AdventurersGuild();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
